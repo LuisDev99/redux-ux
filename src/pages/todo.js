@@ -13,7 +13,7 @@ import {
 } from "@material-ui/core";
 import DeleteIcon from "@material-ui/icons/Delete";
 
-import ACTIONS from "../modules/action";
+import ACTIONS from "../modules/actions";
 import { connect } from "react-redux";
 
 const styles = theme => ({
